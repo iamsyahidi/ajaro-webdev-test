@@ -51,12 +51,3 @@
 
 - [ ] create docker image
 - [ ] create automation to check codestyle with psr standard
-
-## How to Submit
-
-* create repository on your github with name `ajaro-webdev-test`
-* push your code in that repository
-* please inform your repository url to our email : [mail@ajaro.id](mailto:mail@ajaro.id)
-
-> Good Luck!
-
